@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(117, 158, 247);
+}
+
+.side{
+    display: inline; 
+    word-spacing: 390px;
+}
+
+img{
+    width: 280px;
+    height: 250px;
+    float: left;
+
+}
+
+
+
