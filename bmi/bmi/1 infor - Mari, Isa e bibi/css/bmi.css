@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(117, 158, 247);
+}
+
+img{
+    width: 380px;
+    height: 250px;
+}
+p{
+
+}
+
+.side{
+    display: inline; 
+    word-spacing: 390px;
+}
+
